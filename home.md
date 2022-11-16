@@ -1,6 +1,6 @@
 #Payments API - UAPIM Demo
 
-Show a single shipping order if current User has access permissions to it.
+Show a single shipping order if current User has access permissions to it....
 
 **URL** : `/api/payments/:pk/`
 
