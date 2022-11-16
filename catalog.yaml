@@ -1,0 +1,15 @@
+#%Catalog Descriptor 1.0
+projects:
+  - main: payments-oas.yaml
+    assetId: invoice-payment-system-api
+    version: 1.1.0
+    apiVersion: v1
+    contact:
+      name: 'Peter Punk'
+      email: 'peter.punk@org.com'
+    tags:
+      - payments
+      - training
+      - mio
+    documentation:
+      Home: home.md
